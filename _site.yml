@@ -14,7 +14,8 @@ navbar:
   - text: Post-2
     href: Post-2.html
   - text: Post-3
-    href: post-3.html
+    href: Post-3.html
+    
     
 output: distill::distill_article
 
