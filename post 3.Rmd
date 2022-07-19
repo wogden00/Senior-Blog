@@ -4,7 +4,7 @@ description: |
   3rd Blog post for Senior Project
 author:
   - name: Wyatt Ogden
-    url: https://wogden00.github.io/Senior-Blog/Post-3.html
+    url: https://wogden00.github.io/Senior-Blog/post-3.html
     affiliation: Wyatt's Blog
     affiliation_url: https://wogden00.github.io/Senior-Blog/
 date: "`r Sys.Date()`"
