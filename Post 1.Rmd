@@ -1,7 +1,7 @@
 ---
-title: "Post"
+title: "Post 1"
 description: |
-  A new article created using the Distill format.
+  1st Blog post for Senior Project
 author:
   - name: Wyatt Ogden
     url: https://wogden00.github.io/Senior-Blog/Post-1.html
