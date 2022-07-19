@@ -8,3 +8,4 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+This blog is for my senior project for my undergraduate degree in data science. 
