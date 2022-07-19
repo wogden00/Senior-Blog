@@ -4,13 +4,15 @@ description: |
   Wyatt's Blog
 output_dir: "docs"
 navbar:
+  left:
+    - text: Posts
+      href: Post-1.html
   right:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Posts"
-      href: Post-1.html
+    
 output: distill::distill_article
 
 
