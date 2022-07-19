@@ -15,9 +15,9 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web. 
+For this blog we will be focusing on the my senior project for my major in data science. The scope of the project is to use data gained from Kaggle and possible more data, regarding the game state of league of legends games at 10 minutes and using machine learning to predict which team will win. We will be looking at the different variables to help the algorithm figure out which team will win. Some of the columns we will be looking at is goldDif, expDif, wardsplaced just to name a few. We will also look to try and expand our data by finding out which champs are being played using some of riot's APIs. 
 
-Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+The insipiration for this project is League of legends is one of the games i've played the most and the way it is set up is better able to become a great data science project. If we are able to accurately predict which team will win based on game state at 10 minutes it will help players better understand what to focus on so that they can increase there ability to win the game. The process I went through to find the data was looking on Kaggle for data and using the key word "league of legends" the data is already been cleaned so that makes it much easier to work with.
 
 
 

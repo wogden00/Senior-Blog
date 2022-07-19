@@ -15,9 +15,9 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web. 
+So far I have been able to get the cat boost model up and running. I've split the data 8/2 training/testing. We are getting decent results based on the data we have at hand. unfortunately I haven't been able to get the Riot API to work to expand the data beyond what I found on Kaggle. the key point of information I was trying to expand the data was to have access to what champions each of the ten players where playing and to see if this information would help the model at all. Common Sense of the game would say that this information would assist the model but unfortunately without this information I'm unable to determine the effect it will have. 
 
-Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
 
 
 

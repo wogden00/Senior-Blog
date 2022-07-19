@@ -15,10 +15,9 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web. 
+The research and development conference went a lot better than I thought it would go. I had a lot more people visit and show interest in my poster than I thought it would. The main question I felt that I could have thought about better was how this project would be beneficial in the future. The main thing I thought about before the conference was how it was just another opportunity to work with some machine learning algorithms. as I've had time to think on it over the weekend I feel that it can be used to better inform mid/low level players on what they should be focusing on so that they con improve their focus in the game. they  may have a general idea of what they should be doing in the game but this will help them understand what is most important to focus on.
 
-Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
-
+Additionally another object to think about was while working on my poster I was unconfident in the way it looked but most of the people I showed it to had positive feedback of how it looks. It was a good reminder that everyone has there own styles and even though my style is more straight forward with less frills, that it is till a valid method of presentation. I may be envious of those that are good and adding frills because it is something I'm not good at.
 
 
 
