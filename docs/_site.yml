@@ -4,7 +4,7 @@ description: |
   Wyatt's Blog
 output_dir: "docs"
 navbar:
-  left:
+  right:
   - text: Home
     href: index.html
   - text: About
