@@ -2,6 +2,7 @@
 title: "Post 1"
 output: html_document
 date: '2022-07-19'
+site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}
