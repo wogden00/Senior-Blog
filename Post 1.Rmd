@@ -3,10 +3,10 @@ title: "Post"
 description: |
   A new article created using the Distill format.
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: Wyatt Ogden
+    url: https://wogden00.github.io/Senior-Blog/Post-1.html
+    affiliation: Wyatt's Blog
+    affiliation_url: https://wogden00.github.io/Senior-Blog/
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
